@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "816443291962",
+    "project_id": "event-tracking-app-project",
+    "storage_bucket": "event-tracking-app-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816443291962:android:1e038e2c8ba0bc4d7f7803",
+        "android_client_info": {
+          "package_name": "com.kazungudev.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816443291962-9cf03ku95hf9k8fd6amu42s25klvidq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnTUFkdSDx7o5dFSysRL9QY7hfTd3XB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816443291962-9cf03ku95hf9k8fd6amu42s25klvidq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816443291962-83t0d0vkhdl081l5ci4ui3autt64mbk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
